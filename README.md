@@ -8,7 +8,7 @@
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=raghavguptaa&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavguptaa&layout=compact)](https://github.com/raghavgupta/github-readme-stats)
+
 ![Amey Bhavsar's TOp Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavguptaa&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515)
 
 
