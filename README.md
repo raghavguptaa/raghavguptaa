@@ -1,6 +1,7 @@
 Hi, I'm Raghav Gupta currently studing engineering from SLRTCE. I am really fond of learning latest Frameworks, developing Android, but got STUCK with Data Structures. 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=raghavguptaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavguptaa &layout=compact)](https://github.com/darshjain/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
