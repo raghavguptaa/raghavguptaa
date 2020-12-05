@@ -11,7 +11,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavguptaa&layout=compact)](https://github.com/raghavgupta/github-readme-stats)
 
 
-Skills: Android / Java / MySQL
 
 - 🔭 I’m currently working on JAVA & Android. 
 - 🌱 I’m currently learning DSA 
