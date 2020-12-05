@@ -1,14 +1,20 @@
-Hi, I'm Raghav Gupta currently studing engineering from SLRTCE. I am really fond of learning latest Frameworks, developing Android, but got STUCK with Data Structures. 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=raghavguptaa)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavguptaa&layout=compact)](https://github.com/raghavgupta/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋, I'm Raghav Gupta
+#### Student & passionate Learner.
+![Student & passionate Learner.](https://img.freepik.com/free-vector/data-center-room-with-server-hardware_107791-3683.jpg?size=626&ext=jpg&ga=GA1.2.342354733.1607186778)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: Android / Java / MySQL
+
+- 🔭 I’m currently working on JAVA & Android. 
+- 🌱 I’m currently learning DSA 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raghavguptaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raghav-gupta-b618471ab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/raghav.raghav.5264)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raghavv.guptaa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/raghavguptaa)  
+
+
 
