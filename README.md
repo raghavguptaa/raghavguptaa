@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="https://github.com/raghavguptaa/raghavguptaa/blob/main/RAGHAV%20GUPTA.png">
 </p>
 
 ### Hi there 👋
