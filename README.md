@@ -1,19 +1,18 @@
-<h3 align="center">Hello there!<img height="30vh" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="👋"></h3>
+<p align="center">
+  <img src="">
+</p>
 
-<h3 align="center">I'm Raghav Gupta</h3>
-<h4 align="center">A Computer Enthusiastic who loves thinks Java is better than Python</h4>
-<h1 align="center"></h1>
+### Hi there 👋
+
+My name is Raghav and I am an Computer Engineering student who loves writting code and creating awesome things. I am interested in computer science, data science and especially in applications of technology. I want to use technology to improve people's everyday life, and create a more sustainable 🌱, accessible and inclusive 🧑‍🤝‍🧑 world.
+
+<br><br>
+<p align="center">
+   <a href="https://www.linkedin.com/in/raghav-gupta-b618471ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+</p>
 
 
+- 🔭 I’m currently working on "something that will make my life awesome". 
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=raghavguptaa&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515)
-![Raghav Gupta's TOp Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavguptaa&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515)
-
-
-
-
-- 🔭 I’m currently working on "Hmm...Difficult to say". 
-- 🌱 I’m currently learning "NOT TO PROCASTINATE".
 
 
