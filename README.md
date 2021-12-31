@@ -1,11 +1,11 @@
 <p align="center">
   
-  <img src="https://github.com/raghavguptaa/raghavguptaa/blob/main/rv.svg">
+<!--   <img src="https://github.com/raghavguptaa/raghavguptaa/blob/main/rv.svg"> -->
 </p>
 
 ### Hi there 👋
 
-My name is Raghav and I am an Computer Engineering student who loves writting code and creating awesome things. I am interested in computer science, data science and especially in applications of technology. I want to use technology to improve people's everyday life, and create a more sustainable 🌱, accessible and inclusive 🧑‍🤝‍🧑 world.
+
 
 <br><br>
 <p align="center">
