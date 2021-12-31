@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img src="https://github.com/raghavguptaa/raghavguptaa/blob/main/Raghav%20Gupta.png">
+  <img src="https://github.com/raghavguptaa/raghavguptaa/blob/main/rv.svg">
 </p>
 
 ### Hi there 👋
