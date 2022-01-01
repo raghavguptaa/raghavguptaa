@@ -13,7 +13,7 @@
 </p>
 
 
-- 🔭 I’m currently working on "something that will make my life awesome". 
+<!-- - 🔭 I’m currently working on "something that will make my life awesome".  -->
 
 
 
