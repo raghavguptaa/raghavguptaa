@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavguptaa&label=Profile%20views&color=0e75b6&style=flat" alt="raghavguptaa" /> </p>
 
 
 <br><br>
