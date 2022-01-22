@@ -7,26 +7,42 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavguptaa&label=Profile%20views&color=0e75b6&style=flat" alt="raghavguptaa" /> </p>
 
 
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghavguptaa&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavguptaa&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
+</details>
 
-# &#x1f4c8; GitHub Stats
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=raghavguptaa&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
+  </p>
+</details>
 
-<div align="center">
-<img style="padding-bottom: 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavguptaa&show_icons=true&locale=en&layout=compact&theme=radical" alt="raghavguptaa" /></p>
+<details>
+  <summary><b>📈 GitHub Streaks</b></summary>
+  <br />
+  <p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavguptaa&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=itsnitinr&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
+  </p>
+</details>
 
- <img src="https://github-readme-stats.vercel.app/api?username=raghavguptaa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&show_icons=true&theme=radical" alt="Raghav's Github Stats">
- 
- </div>
- <br />
- 
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavguptaa&theme=radical" alt="raghavguptaa" /> 
-</div>
 
-<br />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raghavguptaa&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
-<br/>
+
+
+
+
+
+
+
+
 
 
 
