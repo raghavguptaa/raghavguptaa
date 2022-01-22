@@ -1,11 +1,9 @@
-<p align="center">
-  
-<!--   <img src="https://github.com/raghavguptaa/raghavguptaa/blob/main/rv.svg"> -->
-</p>
 
-### Hi there 👋
+
+## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavguptaa&label=Profile%20views&color=0e75b6&style=flat" alt="raghavguptaa" /> </p>
 
+## 🤓 GitHub
 
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
