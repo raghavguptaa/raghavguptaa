@@ -44,6 +44,6 @@
   <br />
   <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavguptaa&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=itsnitinr&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=raghavguptaa&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
   </p>
 </details>
