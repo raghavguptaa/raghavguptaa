@@ -7,7 +7,7 @@
   <a href="https://dev.to/raghavguptaa" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://t.me/raghavguptaaaa" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=raghavguptaa&label=Profile%20views&color=0e75b6&style=flat" alt="raghavguptaa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=raghavguptaa&label=Profile%20views&color=red&style=flat" alt="raghavguptaa" /> </p>
 
 
 ## ⚡ Languages & Tools
