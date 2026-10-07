@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-cyber.svg" alt="Raghav Gupta" width="100%">
+  <img src="profile-banner.svg" alt="Raghav Gupta" width="100%">
 </p>
 
 
