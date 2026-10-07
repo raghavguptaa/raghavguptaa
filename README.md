@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">YOUR NAME</h1>
 
-<!--
-**raghavguptaa/raghavguptaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Your role · Final-Year CSE Student</b><br>
+  One line about what you do.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
+  <a href="mailto:YOUR_EMAIL">Email</a> ·
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 01 · Flagship project
+
+**[Project name](REPO_LINK)**: one line on what it does and the result.
+
+| Metric 1 | Metric 2 | Metric 3 |
+|:---:|:---:|:---:|
+| value | value | value |
+
+- What problem it solves
+- How you built it
+- What you learned or achieved
+
+`Tool 1` · `Tool 2` · `Tool 3`
+
+---
+
+## 02 · About
+
+Final-year B.Tech CSE student at YOUR COLLEGE (CGPA X/10).
+
+## 03 · Experience
+
+| Period | Role |
+|:---|:---|
+| 20XX | **Role**, Company: what you did and the result |
+
+## 04 · Certifications
+
+- Certification name (earned / in progress)
+
+## 05 · More projects
+
+| Project | Description |
+|:---|:---|
+| [Project A](link) | One line |
+| [Project B](link) | One line |
+
+## 06 · Stack
+
+```text
+cloud    ...
+code     ...
+devops   ...
+```
+
+## 07 · Contact
+
+Best way to reach me: YOUR_EMAIL
