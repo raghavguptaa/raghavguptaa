@@ -2,14 +2,6 @@
   <img src="profile-banner.png" alt="Raghav Gupta" width="100%">
 </p>
 
-
-<h1 align="center">YOUR NAME</h1>
-
-<p align="center">
-  <b>Your role · Final-Year CSE Student</b><br>
-  One line about what you do.
-</p>
-
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
   <a href="mailto:YOUR_EMAIL">Email</a> ·
