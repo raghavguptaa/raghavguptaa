@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner-cyber.svg" alt="Raghav Gupta" width="100%">
+</p>
+
+
 <h1 align="center">YOUR NAME</h1>
 
 <p align="center">
