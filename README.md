@@ -13,10 +13,7 @@
 Enterprise Network Security with Palo Alto NGFW
 A 10-lesson hands-on lab series on a Palo Alto next-generation firewall, built the way a real deployment is done: lab setup and interfaces first, then routing, NAT and policy, then App-ID, QoS, DoS protection, SSL decryption and URL filtering. Every lesson has its own write-up and screenshots.
 <img src="stats-project.png" width="100%" alt="10 lessons, 2 security zones, 1 firewall built from scratch in VMware">
-```mermaid
-flowchart LR
-  U["Ubuntu VM<br/>Trust zone"] --> F{{"Palo Alto VM-Series<br/>NAT · policy · App-ID · SSL decryption"}} --> N["VMware NAT<br/>Untrust zone / Internet"]
-```
+<img src="diagram-topology.png" width="100%" alt="Lab topology: Ubuntu VM in the Trust zone, through the Palo Alto VM-Series firewall, to VMware NAT in the Untrust zone">
 Configured Layer 3 Trust and Untrust interfaces, source NAT and security policy rules
 Built App-ID based policies, FQDN website blocking and URL filtering
 Added QoS, ICMP flood / DoS protection and SSL decryption, then verified behaviour in traffic logs
