@@ -39,3 +39,11 @@
 <pre>network   TCP/IP · Routing &amp; Switching · DNS · DHCP · HTTP/S · SSL/TLS · NAT<br>firewall  Palo Alto Networks (zones, policies, NAT, App-ID, logs)<br>security  VAPT · Vulnerability Management · Threat Modelling · Phishing &amp; Malware Analysis<br>defense   Log Analysis · Incident Response · Splunk<br>tools     Kali Linux · Wireshark · Nmap<br>crypto    AES-256-GCM · RSA · Web Crypto API<br>cloud     AWS (EC2 · VPC · S3 · ALB · CloudWatch · IAM · Lambda · CloudTrail · Route 53) · GCP · Azure</pre>
 <p><img src="h-06-contact.png" width="100%" alt="06 Contact"></p>
 <p align="center"><b>Best way to reach me:</b> <a href="mailto:okraghavgupta@gmail.com">okraghavgupta@gmail.com</a> · <a href="https://www.linkedin.com/in/okraghavgupta">LinkedIn</a></p>
+
+<h3 align="center">// contribution.log</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghavguptaa/raghavguptaa/output/github-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/raghavguptaa/raghavguptaa/output/github-snake.svg" />
+  </picture>
+</p>
