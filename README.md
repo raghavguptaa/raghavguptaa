@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/okraghavgupta"><img src="btn-linkedin.png" width="32%" alt="LinkedIn"></a>
 <a href="mailto:okraghavgupta@gmail.com"><img src="btn-email.png" width="32%" alt="Email"></a>
-<a href="https://github.com/raghavguptaa/Enterprise-Network-Security-Implementation-using-Palo-Alto-Next-Generation-Firewall-NGFW-"><img src="btn-repo.png" width="32%" alt="Palo Alto lab repository"></a>
+<a href="https://raghavguptaa.github.io"><img src="btn-portfolio.png" width="32%" alt="Portfolio"></a>
 </p>
 <p><img src="status-strip.png" width="100%" alt="Open to internship and 2027 full-time roles. Delhi-NCR. B.Tech CSE, class of 2027."></p>
 <p><img src="h-01-project.png" width="100%" alt="01 Flagship project"></p>
@@ -37,13 +37,17 @@
 <p><img src="cert-cards.png" width="100%" alt="Palo Alto Networks Certified Cybersecurity Practitioner, Palo Alto Networks Certified Cybersecurity Apprentice, Fortinet Certified Fundamentals"></p>
 <p><img src="h-05-stack.png" width="100%" alt="05 Stack"></p>
 <pre>network   TCP/IP · Routing &amp; Switching · DNS · DHCP · HTTP/S · SSL/TLS · NAT<br>firewall  Palo Alto Networks (zones, policies, NAT, App-ID, logs)<br>security  VAPT · Vulnerability Management · Threat Modelling · Phishing &amp; Malware Analysis<br>defense   Log Analysis · Incident Response · Splunk<br>tools     Kali Linux · Wireshark · Nmap<br>crypto    AES-256-GCM · RSA · Web Crypto API<br>cloud     AWS (EC2 · VPC · S3 · ALB · CloudWatch · IAM · Lambda · CloudTrail · Route 53) · GCP · Azure</pre>
-<p><img src="h-06-contact.png" width="100%" alt="06 Contact"></p>
-<p align="center"><b>Best way to reach me:</b> <a href="mailto:okraghavgupta@gmail.com">okraghavgupta@gmail.com</a> · <a href="https://www.linkedin.com/in/okraghavgupta">LinkedIn</a></p>
-
-<h3 align="center">// contribution.log</h3>
+<p><img src="h-06-activity.png" width="100%" alt="06 Activity"></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghavguptaa/raghavguptaa/output/github-snake-dark.svg" />
     <img alt="snake animation" src="https://raw.githubusercontent.com/raghavguptaa/raghavguptaa/output/github-snake.svg" />
   </picture>
 </p>
+<p><img src="h-07-beyond.png" width="100%" alt="07 Beyond code"></p>
+<p><b>Core Member, Axions Dance Club, SRM IST</b> · <code>Dec 2023 – Present</code><br>
+Dance · the one place I switch off and just move.</p>
+<p><b>Travel</b> · new states, new cities, long train rides.</p>
+<p><img src="beyond-photos.png" width="100%" alt="Two photos from my trips: a lake at dusk and the moon"></p>
+<p><sub><a href="https://raghavguptaa.github.io">Full portfolio →</a></sub></p>
+<p align="center"><b>Best way to reach me:</b> <a href="mailto:okraghavgupta@gmail.com">okraghavgupta@gmail.com</a> · <a href="https://www.linkedin.com/in/okraghavgupta">LinkedIn</a></p>
