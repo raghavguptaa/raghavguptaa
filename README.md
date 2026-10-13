@@ -6,16 +6,17 @@
 </p>
 <p><img src="status-strip.png" width="100%" alt="Open to internship and 2027 full-time roles. Delhi-NCR. B.Tech CSE, class of 2027."></p>
 <p><img src="h-01-project.png" width="100%" alt="01 Flagship project"></p>
-<h3><a href="https://github.com/raghavguptaa/Enterprise-Network-Security-Implementation-using-Palo-Alto-Next-Generation-Firewall-NGFW-">Enterprise Network Security with Palo Alto NGFW</a></h3>
-<p><b>Hands-on Palo Alto next-generation firewall labs, built in real deployment order: from interfaces to SSL decryption.</b></p>
-<p><img src="stats-project.png" width="100%" alt="10 lessons, 2 security zones, 11 lesson folders"></p>
-<p><img src="diagram-topology.png" width="100%" alt="Ubuntu VM in the Trust zone, through the Palo Alto VM-Series firewall, to VMware NAT in the Untrust zone"></p>
+<h3><a href="https://github.com/raghavguptaa/rag-x">Rag X</a></h3>
+<p><b>A browser-based encryption toolkit for text, files and PDFs, with optional accounts, a contact inbox and a metadata-only activity dashboard.</b></p>
+<p><img src="stats-project.png" width="100%" alt="AES-256-GCM encryption, 600,000 PBKDF2 iterations, no secrets stored on the server"></p>
+<p><img src="diagram-ragx.png" width="100%" alt="Architecture: the browser encrypts text, files and vault data with the Web Crypto API; the Flask server handles PDFs, accounts and the inbox; the database stores accounts, messages and a metadata-only log"></p>
 <ul>
-<li>Configured Layer 3 Trust and Untrust interfaces, static routing, source NAT and security policy rules.</li>
-<li>Built App-ID based policies, FQDN website blocking and URL filtering, then checked every change in the traffic logs.</li>
-<li>Added QoS, ICMP flood / DoS protection and SSL decryption. Every lesson has its own write-up and screenshots.</li>
+<li>Text, file and vault encryption run entirely in the browser with the Web Crypto API (AES-256-GCM, plus PBKDF2-HMAC-SHA256 with 600,000 iterations for the password vault), so keys never leave the device.</li>
+<li>Hardened Flask backend: scrypt password hashing, CSRF tokens, per-IP and per-account rate limits, a strict Content Security Policy, signed HttpOnly cookies and upload limits.</li>
+<li>Accounts with password reset, a metadata-only activity dashboard, a contact inbox and an admin panel, all covered by a pytest suite.</li>
 </ul>
-<p><code>Palo Alto VM-Series</code> · <code>VMware Workstation</code> · <code>Ubuntu</code> · <code>PuTTY</code> · <code>Web GUI</code> · <a href="https://github.com/raghavguptaa/Enterprise-Network-Security-Implementation-using-Palo-Alto-Next-Generation-Firewall-NGFW-">Repository →</a></p>
+<p><code>Python</code> · <code>Flask</code> · <code>JavaScript</code> · <code>Web Crypto API</code> · <code>SQLite</code> · <code>pytest</code> · <a href="https://github.com/raghavguptaa/rag-x">Repository →</a></p>
+<p><sub>A learning and portfolio project built on standard cryptography. Not independently audited and not deployed yet.</sub></p>
 <p><img src="h-02-about.png" width="100%" alt="02 About"></p>
 <p>Final-year B.Tech Computer Science student at <b>SRM Institute of Science and Technology, Delhi-NCR</b> (CGPA 9.14/10) and a <b>Palo Alto Networks Certified Cybersecurity Practitioner</b> who builds and secures network infrastructure.</p>
 <p>I like hands-on labs where I can see the result. I built a 10-lesson Palo Alto firewall lab series from scratch, and during a cybersecurity internship I ran vulnerability assessments on Kali Linux and built a hybrid AES + RSA encryption tool in Python.</p>
@@ -35,16 +36,22 @@
 </table>
 <p><img src="h-04-certs.png" width="100%" alt="04 Certifications"></p>
 <p><img src="cert-cards.png" width="100%" alt="Palo Alto Networks Certified Cybersecurity Practitioner, Palo Alto Networks Certified Cybersecurity Apprentice, Fortinet Certified Fundamentals"></p>
-<p><img src="h-05-stack.png" width="100%" alt="05 Stack"></p>
+<p><img src="h-05-projects.png" width="100%" alt="05 More projects"></p>
+<p align="center">
+<a href="https://github.com/raghavguptaa/Enterprise-Network-Security-Implementation-using-Palo-Alto-Next-Generation-Firewall-NGFW-"><img src="project-paloalto.png" width="32%" alt="Palo Alto NGFW Labs: ten lessons on a Palo Alto VM-Series firewall in VMware"></a>
+<a href="https://github.com/raghavguptaa/aws-cloud-threat-detection-soar"><img src="project-soar.png" width="32%" alt="AWS Threat Response: automated AWS threat detection and response with CloudTrail, CloudWatch, SNS and Lambda"></a>
+<a href="https://github.com/raghavguptaa/Credit-risk-analyser"><img src="project-credit.png" width="32%" alt="Credit Risk Analyser: credit card default analysis in a Jupyter notebook"></a>
+</p>
+<p><img src="h-06-stack.png" width="100%" alt="06 Stack"></p>
 <pre>network   TCP/IP · Routing &amp; Switching · DNS · DHCP · HTTP/S · SSL/TLS · NAT<br>firewall  Palo Alto Networks (zones, policies, NAT, App-ID, logs)<br>security  VAPT · Vulnerability Management · Threat Modelling · Phishing &amp; Malware Analysis<br>defense   Log Analysis · Incident Response · Splunk<br>tools     Kali Linux · Wireshark · Nmap<br>crypto    AES-256-GCM · RSA · Web Crypto API<br>cloud     AWS (EC2 · VPC · S3 · ALB · CloudWatch · IAM · Lambda · CloudTrail · Route 53) · GCP · Azure</pre>
-<p><img src="h-06-activity.png" width="100%" alt="06 Activity"></p>
+<p><img src="h-07-activity.png" width="100%" alt="07 Activity"></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghavguptaa/raghavguptaa/output/github-snake-dark.svg" />
     <img alt="snake animation" src="https://raw.githubusercontent.com/raghavguptaa/raghavguptaa/output/github-snake.svg" />
   </picture>
 </p>
-<p><img src="h-07-beyond.png" width="100%" alt="07 Beyond code"></p>
+<p><img src="h-08-beyond.png" width="100%" alt="08 Beyond code"></p>
 <p><b>Core Member, Axions Dance Club, SRM IST</b> · <code>Dec 2023 – Present</code><br>
 Dance · the one place I switch off and just move.</p>
 <p><b>Travel</b> · new states, new cities, long train rides.</p>
